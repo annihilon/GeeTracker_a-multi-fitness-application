@@ -16,3 +16,8 @@ HOW TO USE
 4. after login /signup the home page will pop up
 5. there u can see the tabs window for the various fitness activities
 6. you can opt any one and the activity window will be displayed to u
+
+-------------------------------------------------------------------------------------------------------------------
+
+SCREENSHOTS
+
