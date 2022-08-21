@@ -1,3 +1,6 @@
+![geetracker_jpg](https://user-images.githubusercontent.com/109434657/185798773-253fb530-c24a-4879-965c-03554354f180.png)
+
+----------------------------------------------------------------------------------------------------------------
 About the App 🥘
 
 GeeTracker is an all-in-one fitness application which you can download on your mobile device for assistance with your exercise regimen and related lifestyle behaviors. It can help you set fitness goals, track your progress toward those goals, try new workouts, access expert fitness advice, join a supportive community, stay motivated and more. 🤤!
@@ -21,15 +24,4 @@ HOW TO USE
 
 SCREENSHOTS
 
-![basketball](https://user-images.githubusercontent.com/109434657/185798702-b5c704a4-8647-462b-adc9-221f48b76696.jpeg)
-![home](https://user-images.githubusercontent.com/109434657/185798705-c00f7529-dc2e-434a-a304-ebffa002e351.jpeg)
-![login](https://user-images.githubusercontent.com/109434657/185798707-a86dd8b6-3bab-48f7-96ed-5f9f61124287.jpeg)
-![main](https://user-images.githubusercontent.com/109434657/185798710-9ed35b2e-9bf5-4bb3-abbc-3937d44f5865.jpeg)
-![pushups](https://user-images.githubusercontent.com/109434657/185798711-1cd5b4fc-7c80-4d0c-9d54-bc9cc31e6ffc.jpeg)
-![running](https://user-images.githubusercontent.com/109434657/185798712-9c9b94c8-12bc-491f-9802-dadd086cb276.jpeg)
-![signup](https://user-images.githubusercontent.com/109434657/185798713-c8281c48-9b5b-4eee-a572-b4191f3b0fbe.jpeg)
-![skipping](https://user-images.githubusercontent.com/109434657/185798715-a651fa45-136b-4253-9e4b-bbe242a81579.jpeg)
-![splash](https://user-images.githubusercontent.com/109434657/185798716-08c88355-3ebd-4f47-b4c8-ec83b14f0874.jpeg)
-![swimming](https://user-images.githubusercontent.com/109434657/185798718-08667fd0-dfa2-4113-86ca-52b278a85f61.jpeg)
-![yoga1](https://user-images.githubusercontent.com/109434657/185798719-a5bdd4d8-ec36-4138-b16a-6eb0ec0f4430.jpeg)
-![yoga2](https://user-images.githubusercontent.com/109434657/185798720-0e0fd2a0-4fda-4803-9bed-2def322e8ad5.jpeg)
+![basketball](https://user-images.githubusercontent.com/109434657/185798702-b5c704a4-8647-462b-adc9-221f48b76696.jpeg)![home](https://user-images.githubusercontent.com/109434657/185798705-c00f7529-dc2e-434a-a304-ebffa002e351.jpeg)![login](https://user-images.githubusercontent.com/109434657/185798707-a86dd8b6-3bab-48f7-96ed-5f9f61124287.jpeg)![main](https://user-images.githubusercontent.com/109434657/185798710-9ed35b2e-9bf5-4bb3-abbc-3937d44f5865.jpeg)![pushups](https://user-images.githubusercontent.com/109434657/185798711-1cd5b4fc-7c80-4d0c-9d54-bc9cc31e6ffc.jpeg)![running](https://user-images.githubusercontent.com/109434657/185798712-9c9b94c8-12bc-491f-9802-dadd086cb276.jpeg)![signup](https://user-images.githubusercontent.com/109434657/185798713-c8281c48-9b5b-4eee-a572-b4191f3b0fbe.jpeg)![skipping](https://user-images.githubusercontent.com/109434657/185798715-a651fa45-136b-4253-9e4b-bbe242a81579.jpeg)![splash](https://user-images.githubusercontent.com/109434657/185798716-08c88355-3ebd-4f47-b4c8-ec83b14f0874.jpeg)![swimming](https://user-images.githubusercontent.com/109434657/185798718-08667fd0-dfa2-4113-86ca-52b278a85f61.jpeg)![yoga1](https://user-images.githubusercontent.com/109434657/185798719-a5bdd4d8-ec36-4138-b16a-6eb0ec0f4430.jpeg)![yoga2](https://user-images.githubusercontent.com/109434657/185798720-0e0fd2a0-4fda-4803-9bed-2def322e8ad5.jpeg)
