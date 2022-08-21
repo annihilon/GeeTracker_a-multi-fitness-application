@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUpActivity"
+    android:orientation="vertical">
+
+  <Toolbar
+      android:id="@+id/toolbar"
+      android:layout_width="match_parent"
+      android:layout_height="55dp"
+      android:background="@color/design_default_color_primary_dark"
+      android:gravity="end"
+      android:textAlignment="textEnd"
+      android:title="Home"
+      android:titleTextColor="#FFF" />
+
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:background="@drawable/bg_1"
+          android:orientation="vertical"
+          android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:orientation="horizontal"
+            android:paddingLeft="20dp"
+            android:paddingTop="40dp"
+            android:paddingBottom="20dp">
+
+          <TextView
+              android:id="@+id/hi"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:fontFamily="serif-monospace"
+              android:text="hi @anonymus"
+              android:textColor="#FBFBFB"
+              android:textSize="24sp"
+              android:textStyle="bold" />
+
+          <Button
+              android:id="@+id/logout"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="20dp"
+              android:layout_marginLeft="20dp"
+              android:layout_marginEnd="20dp"
+              android:layout_marginRight="20dp"
+              android:layout_marginBottom="20dp"
+              android:layout_weight="1"
+              android:background="@drawable/btn_shadow"
+              android:minHeight="48dp"
+              android:text="LogOut"
+              tools:ignore="TouchTargetSizeCheck" />
+        </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/bmi"
+            android:layout_width="150dp"
+            android:layout_height="79dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/bmi"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="BMI"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/graph"
+            android:layout_width="235dp"
+            android:layout_height="79dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/graph"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Calorie"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="30sp" />
+
+      </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/activities_bg"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:text="Activities"
+            android:textColor="#FBFBFB"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/walking"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/yoga"
+            android:fontFamily="serif"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical|end"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Yoga"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/running"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/running"
+            android:fontFamily="serif"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical|end"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Running"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/yoga"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/skipping"
+            android:fontFamily="serif"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical|end"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Skipping"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/swimming"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/swimming"
+            android:fontFamily="serif"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical|end"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Swimming"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/cycling"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/basketball_1"
+            android:fontFamily="serif"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical|end"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Basketball"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/pushups"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:height="100dp"
+            android:background="@drawable/activities_bg"
+            android:drawableLeft="@drawable/situps"
+            android:fontFamily="serif"
+            android:gravity="center|clip_vertical|right|center_horizontal|top|center_vertical|fill_vertical|end"
+            android:padding="10dp"
+            android:paddingLeft="30dp"
+            android:shadowColor="#171515"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:text="Pushups"
+            android:textColor="#F4EEEE"
+            android:textColorHighlight="#B6A82C"
+            android:textSize="34sp" />
+
+
+      </LinearLayout>
+
+    </ScrollView>
+  </LinearLayout>
+</LinearLayout>

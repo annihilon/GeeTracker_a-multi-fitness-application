@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/backgroundcrop.xml" value="0.2385" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/btn_shadow.xml" value="0.2385" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/button_bg.xml" value="0.2375" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/chronometer_bg.xml" value="0.2385" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/corner_bg.xml" value="0.191" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/fbbackground.xml" value="0.2385" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/gbackground.xml" value="0.2375" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/userenter_bg.xml" value="0.2385" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/drawable/yoga_btn.xml" value="0.2385" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/font/font.xml" value="0.26145833333333335" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_bmi.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_cycling.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_home2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_pushup.xml" value="0.152" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_running.xml" value="0.21822916666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_sign_up.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_skipping.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_swimming.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_walking.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_yoga.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_yoga1.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/layout/activity_yoga2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Media/New Projects/LoginPage/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.104" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
